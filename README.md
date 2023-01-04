@@ -3,6 +3,10 @@
 I am an Engineer and CTO currently working on robotics in Scotland
 
 <!--
+https://github.com/mawady/mawady/blob/main/README.md
+-->
+
+<!--
 **MShields1986/MShields1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
