@@ -1,6 +1,6 @@
 # Hey, I'm Matthew
 
-I am an Engineer and CTO currently working on robotics in Scotland
+### I am an Engineer and CTO currently working on robotics in Scotland
 
 <div align="center">
 
@@ -49,10 +49,6 @@ I am an Engineer and CTO currently working on robotics in Scotland
 ![Obsidian Badge](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=Obsidian&logoColor=white)
 
 ![Latex Badge](https://img.shields.io/badge/-Latex-008080?style=flat&logo=latex&logoColor=white)
-
-<!--
-https://github.com/mawady/mawady/blob/main/README.md
--->
 
 <!--
 **MShields1986/MShields1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
