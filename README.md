@@ -43,11 +43,9 @@
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 
 ![Grafana Badge](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white)
-
 ![OpenVPN Badge](https://img.shields.io/badge/-OpenVPN-EA7E20?style=flat&logo=OpenVPN&logoColor=white)
-
 ![Obsidian Badge](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=Obsidian&logoColor=white)
-
+![Google Earth Badge](https://img.shields.io/badge/-Google%20Earth-4285F4?style=flat&logo=Google%20Earth&logoColor=white)
 ![Latex Badge](https://img.shields.io/badge/-Latex-008080?style=flat&logo=latex&logoColor=white)
 
 <!--
