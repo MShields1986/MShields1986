@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, I'm Matthew
+
+I am an Engineer and CTO currently working on robotics in Scotland
 
 <!--
 **MShields1986/MShields1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
