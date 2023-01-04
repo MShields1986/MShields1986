@@ -2,6 +2,16 @@
 
 I am an Engineer and CTO currently working on robotics in Scotland
 
+(CV)[https://mshields.name/curriculum-vitae/]
+(Blog)[https://mshields.name/blog/]
+
+## Skills
+### Languages
+![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white)
+![R Badge](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-Git-blue?style=flat&logo=Git&logoColor=white)
+![Latex Badge](https://img.shields.io/badge/-Latex-blue?style=flat&logo=latex&logoColor=white)
+
 <!--
 https://github.com/mawady/mawady/blob/main/README.md
 -->
