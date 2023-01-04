@@ -36,6 +36,9 @@ I am an Engineer and CTO currently working on robotics in Scotland
 [![Raspberry Pi Badge](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.org/)
 
 [![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/)
+[![MQTT Badge](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=MQTT&logoColor=white)](https://mqtt.org/)
+[![Grafana Badge](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white)](https://grafana.com/)
+[![OpenVPN Badge](https://img.shields.io/badge/-OpenVPN-EA7E20?style=flat&logo=OpenVPN&logoColor=white)](https://openvpn.net/)
 [![EC2 Badge](https://img.shields.io/badge/-EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white)](https://aws.amazon.com/ec2/)
 [![Lambda Badge](https://img.shields.io/badge/-Lambda-FF9900?style=flat&logo=AWS%20Lambda&logoColor=white)](https://aws.amazon.com/lambda/)
 [![DynamoDB Badge](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)](https://aws.amazon.com/dynamodb/)
@@ -43,11 +46,9 @@ I am an Engineer and CTO currently working on robotics in Scotland
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/)
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)](https://git-scm.com/)
 
-[![Obsidian Badge](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=Obsidian&logoColor=white)](https://obsidian.md/)
-[![Grafana Badge](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white)](https://grafana.com/)
 [![Google Earth Badge](https://img.shields.io/badge/-Google%20Earth-4285F4?style=flat&logo=Google%20Earth&logoColor=white)](https://earth.google.com/)
+[![Obsidian Badge](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=Obsidian&logoColor=white)](https://obsidian.md/)
 [![Latex Badge](https://img.shields.io/badge/-Latex-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
-[![OpenVPN Badge](https://img.shields.io/badge/-OpenVPN-EA7E20?style=flat&logo=OpenVPN&logoColor=white)](https://openvpn.net/)
 
 <!--
 **MShields1986/MShields1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
