@@ -14,7 +14,7 @@
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=Numpy&logoColor=white)
 ![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
-![MicroPython Badge](https://img.shields.io/badge/-MicroPython-2B2728?style=flat&logo=MicroPython%20IDE&logoColor=white)
+![MicroPython Badge](https://img.shields.io/badge/-MicroPython-2B2728?style=flat&logo=MicroPython&logoColor=white)
 ![Scikit-Learn Badge](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![OpenCV Badge](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
