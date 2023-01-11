@@ -3,7 +3,7 @@
 
 I am an Engineer, ex-CTO, PhD student currently working on robotics in Scotland
 - 👯 I’m looking to collaborate on remote sensing and robotics for forestry applications
-- 💬 Ask me about GNSS, Inertial Navigation Systems, RTK, LiDAR, Robotics, Sensing, RaaS Businesses
+- 💬 Ask me about GNSS, Inertial Navigation Systems, RTK, LiDAR, Robotics, Sensing, IoT, RaaS Businesses and RaaS Infrastructure
 
 <div align="center">
 
