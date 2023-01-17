@@ -1,7 +1,7 @@
 <!-- https://simpleicons.org/ -->
 # Hey, I'm Matthew
 
-I am an Engineer, ex-CTO, PhD student working on robotics in Scotland
+I am an Engineer, ex-CTO and PhD student working on robotics in Scotland
 - 👯 I’m looking to collaborate on remote sensing and robotics for forestry applications
 - 💬 Ask me about GNSS, Inertial Navigation Systems, RTK, LiDAR, Robotics, Sensing, IoT, RaaS Businesses and RaaS Infrastructure
 
