@@ -17,21 +17,18 @@ I am an Engineer working on robotics in Scotland
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
 [![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=Numpy&logoColor=white)](https://numpy.org/)
 [![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
-[![MicroPython Badge](https://img.shields.io/badge/-MicroPython-2B2728?style=flat&logo=MicroPython&logoColor=white)](https://micropython.org/)
 [![Scikit-Learn Badge](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![MicroPython Badge](https://img.shields.io/badge/-MicroPython-2B2728?style=flat&logo=MicroPython&logoColor=white)](https://micropython.org/)
+
 [![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![OpenCV Badge](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)](https://opencv.org/)
-[![Spyder Badge](https://img.shields.io/badge/-Spyder-FF0000?style=flat&logo=Spyder%20IDE&logoColor=white)](https://www.spyder-ide.org/)
-[![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 
 [![R Badge](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)](https://www.r-project.org/)
 [![Tidyverse Badge](https://img.shields.io/badge/-Tidyverse-1A162D?style=flat&logo=Tidyverse&logoColor=white)](https://www.tidyverse.org/)
 [![RStudio Badge](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)](https://posit.co/)
 
 [![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Debian Badge](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=Debian&logoColor=white)](https://www.debian.org/)
 [![Bash Badge](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![tmux Badge](https://img.shields.io/badge/-tmux-1BB91F?style=flat&logo=tmux&logoColor=white)](https://github.com/tmux/tmux/wiki)
 [![NVidia Badge](https://img.shields.io/badge/-NVidia-76B900?style=flat&logo=NVidia&logoColor=white)](https://www.nvidia.com/)
 [![Raspberry Pi Badge](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.org/)
 
