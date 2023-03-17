@@ -26,7 +26,6 @@ I am an Engineer working on robotics in Scotland
 
 [![R Badge](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)](https://www.r-project.org/)
 [![Tidyverse Badge](https://img.shields.io/badge/-Tidyverse-1A162D?style=flat&logo=Tidyverse&logoColor=white)](https://www.tidyverse.org/)
-[![Plotly Badge](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white)](https://plotly.com/)
 [![RStudio Badge](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)](https://posit.co/)
 
 [![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
