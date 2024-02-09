@@ -10,7 +10,7 @@ I am an Engineer working on robotics in Scotland
 [![Website Badge](https://img.shields.io/badge/-Blog-da2c30?style=flat&logo=Google-Chrome&logoColor=white&link=https://mshields.name/)](https://mshields.name/)  <!--[![Mail Badge](https://img.shields.io/badge/-email-EA4335?style=flat&logo=GMail&logoColor=white&link=mailto:matthew.shields.1986@gmail.com)](mailto:matthew.shields.1986@gmail.com)  -->[![Twitter Badge](https://img.shields.io/badge/-@MShields_esq-1DA1F2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MShields_esq)](https://twitter.com/MShields_esq)  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-harry-shields/)](https://www.linkedin.com/in/matthew-harry-shields/)
 
 </div>
-
+<!--
 ## Skills & Tools
 Shield badge-ageddon
 
@@ -48,7 +48,7 @@ Shield badge-ageddon
 [![Latex Badge](https://img.shields.io/badge/-Latex-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![OpenVPN Badge](https://img.shields.io/badge/-OpenVPN-EA7E20?style=flat&logo=OpenVPN&logoColor=white)](https://openvpn.net/)
 [![Google Earth Badge](https://img.shields.io/badge/-Google%20Earth-4285F4?style=flat&logo=Google%20Earth&logoColor=white)](https://earth.google.com/)
-
+-->
 <!--
 **MShields1986/MShields1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
