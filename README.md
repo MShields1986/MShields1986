@@ -4,7 +4,7 @@
 I am an Engineer working on robotics in Scotland
 <div align="center">
 
-[![Website Badge](https://img.shields.io/badge/-Blog-da2c30?style=flat&logo=Google-Chrome&logoColor=white&link=https://mshields.name/)](https://mshields.name/)  <!--[![Mail Badge](https://img.shields.io/badge/-email-EA4335?style=flat&logo=GMail&logoColor=white&link=mailto:matthew.shields.1986@gmail.com)](mailto:matthew.shields.1986@gmail.com)  -->[![Twitter Badge](https://img.shields.io/badge/-@MShields_esq-1DA1F2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MShields_esq)](https://twitter.com/MShields_esq)  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-harry-shields/)](https://www.linkedin.com/in/matthew-harry-shields/)
+[![Website Badge](https://img.shields.io/badge/-Blog-da2c30?style=flat&logo=Google-Chrome&logoColor=white&link=https://mshields.name/)](https://mshields.name/)  <!--[![Mail Badge](https://img.shields.io/badge/-email-EA4335?style=flat&logo=GMail&logoColor=white&link=mailto:matthew.shields.1986@gmail.com)](mailto:matthew.shields.1986@gmail.com)  -->[![X Badge](https://img.shields.io/badge/-@MShields_esq-1DA1F2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MShields_esq)](https://twitter.com/MShields_esq)  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-harry-shields/)](https://www.linkedin.com/in/matthew-harry-shields/)
 
 </div>
 <!--
